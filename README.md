@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ```
 ## How to Play
 
-1. Launch the game by running the `hangman.py` script.
+1. Launch the game by running the `Hangman.py` script.
 
 2. Click on any letter in the virtual keyboard to make your guess.
 
